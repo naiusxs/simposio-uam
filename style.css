@@ -320,6 +320,8 @@ ul { list-style: none; }
   .nav-menu { display: none; }
   .hamburger { display: flex; }
   .hero-content { margin: 0 auto; width: 100%; }
+  .hero-title { font-size: clamp(1.8rem, 8vw, 3rem); }
+  .title-bottom { white-space: normal; }
 }
 @media (max-width: 600px) {
   .section { padding: 5rem 1.5rem; }
