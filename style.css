@@ -52,7 +52,7 @@ ul { list-style: none; }
   height: 68px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .nav-logo { display: flex; align-items: center; gap: 0.9rem; }
 .logo-sigla {
