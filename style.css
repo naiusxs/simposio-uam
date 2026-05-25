@@ -142,7 +142,10 @@ ul { list-style: none; }
   letter-spacing: 2px;
   text-transform: uppercase;
 }
-.hero-title em {
+.title-top {
+  display: block;
+}
+.title-bottom {
   display: block;
   white-space: nowrap;
   font-family: var(--font-serif);
