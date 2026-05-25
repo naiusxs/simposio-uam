@@ -320,7 +320,7 @@ ul { list-style: none; }
   .nav-menu { display: none; }
   .hamburger { display: flex; }
   .hero-content { margin: 0 auto; width: 100%; }
-  .hero-title { font-size: clamp(1.8rem, 8vw, 3rem); }
+  .hero-title { font-size: clamp(2.4rem, 11vw, 4rem); }
   .title-bottom { white-space: normal; }
 }
 @media (max-width: 600px) {
