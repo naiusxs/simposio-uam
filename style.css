@@ -219,7 +219,7 @@ ul { list-style: none; }
 .editorial-header h2.light { color: var(--cream); }
 .gold-rule { width: 48px; height: 1px; background: var(--gold); margin: 0 auto 1rem; }
 .gold-rule.centered { margin: 1.5rem auto; }
-.section-caption { font-family: var(--font-serif); font-size: 1.1rem; font-style: italic; color: var(--text-muted); font-weight: 300; }
+.section-caption { font-family: var(--font-serif); font-size: 1.5rem; font-style: italic; color: var(--text-muted); font-weight: 300; }
 .section-caption.light { color: var(--text-smoke); opacity: 0.6; }
 
 /* ─── EDITORIAL BODY ─── */
