@@ -276,7 +276,7 @@ ul { list-style: none; }
 .ink-card p { font-family: var(--font-sans); font-size: 0.82rem; font-weight: 300; color: var(--text-smoke); line-height: 1.8; opacity: 0.7; }
 
 /* ─── ALIADOS ─── */
-.aliados-intro { font-family: var(--font-serif); font-size: 1.1rem; font-style: italic; color: var(--text-smoke); opacity: 0.6; text-align: center; margin-bottom: 3.5rem; font-weight: 300; }
+.aliados-intro { font-family: var(--font-serif); font-size: 1.5rem; font-style: italic; color: var(--text-smoke); opacity: 0.6; text-align: center; margin-bottom: 3.5rem; font-weight: 300; }
 .aliados-list { display: flex; flex-direction: column; }
 .aliado-row { display: grid; grid-template-columns: 60px 1px 1fr; gap: 2rem; align-items: start; padding: 2.5rem 0; border-bottom: 1px solid rgba(184,151,88,0.15); transition: background 0.3s; }
 .aliado-row:first-child { border-top: 1px solid rgba(184,151,88,0.15); }
