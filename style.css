@@ -135,7 +135,7 @@ ul { list-style: none; }
 .hero-rule { width: 60px; height: 1px; background: var(--gold); margin: 1.5rem auto; opacity: 0.6; }
 .hero-title {
   font-family: var(--font-display);
-  font-size: clamp(2.4rem, 5.5vw, 5rem);
+  font-size: clamp(3rem, 7vw, 7rem);
   font-weight: 700;
   color: var(--cream);
   line-height: 1.05;
