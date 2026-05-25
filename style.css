@@ -220,7 +220,7 @@ ul { list-style: none; }
 .gold-rule { width: 48px; height: 1px; background: var(--gold); margin: 0 auto 1rem; }
 .gold-rule.centered { margin: 1.5rem auto; }
 .section-caption { font-family: var(--font-serif); font-size: 1.5rem; font-style: italic; color: var(--text-muted); font-weight: 300; }
-.section-caption.light { color: var(--text-smoke); opacity: 0.6; }
+.section-caption.light { color: #ffffff; opacity: 1; }
 
 /* ─── EDITORIAL BODY ─── */
 .editorial-body { display: grid; grid-template-columns: 1.4fr 1fr; gap: 5rem; align-items: start; }
