@@ -224,7 +224,7 @@ ul { list-style: none; }
 
 /* ─── EDITORIAL BODY ─── */
 .editorial-body { display: grid; grid-template-columns: 1.4fr 1fr; gap: 5rem; align-items: start; }
-.editorial-col-main p { font-family: var(--font-sans); font-size: 0.9rem; font-weight: 300; color: var(--text-muted); line-height: 1.9; margin-bottom: 1.2rem; }
+.editorial-col-main p { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 300; color: var(--text-muted); line-height: 1.9; margin-bottom: 1.2rem; }
 .editorial-col-main p strong { color: var(--ink); font-weight: 500; }
 .drop-cap { color: var(--text-dark) !important; font-size: 0.95rem !important; }
 .drop-cap::first-letter {
@@ -246,7 +246,7 @@ ul { list-style: none; }
 .concepto-item { padding: 1rem 3rem; text-align: center; }
 .concepto-icon { width: 56px; height: 56px; margin: 0 auto 1.5rem; display: block; }
 .concepto-item h3 { font-family: var(--font-display); font-size: 1rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: var(--ink); margin-bottom: 1rem; }
-.concepto-item p { font-family: var(--font-sans); font-size: 0.88rem; font-weight: 300; color: var(--text-muted); line-height: 1.85; }
+.concepto-item p { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 300; color: var(--text-muted); line-height: 1.85; }
 .italic-lead { font-family: var(--font-serif) !important; font-size: 1.1rem !important; font-style: italic; color: var(--ink) !important; margin-bottom: 0.75rem !important; }
 
 /* ─── PILLARS ─── */
