@@ -321,7 +321,7 @@ ul { list-style: none; }
   .hamburger { display: flex; }
   .hero-content { margin: 0 auto; width: 100%; }
   .hero-title { font-size: clamp(2.4rem, 11vw, 4rem); }
-  .title-bottom { white-space: normal; }
+  .title-bottom { white-space: nowrap; font-size: 7vw; }
 }
 @media (max-width: 600px) {
   .section { padding: 5rem 1.5rem; }
