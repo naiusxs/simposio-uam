@@ -226,7 +226,7 @@ ul { list-style: none; }
 .editorial-body { display: grid; grid-template-columns: 1.4fr 1fr; gap: 5rem; align-items: start; }
 .editorial-col-main p { font-family: var(--font-sans); font-size: 1.1rem; font-weight: 300; color: var(--text-dark); line-height: 1.9; margin-bottom: 1.2rem; }
 .editorial-col-main p strong { color: var(--ink); font-weight: 500; }
-.drop-cap { color: var(--text-dark) !important; font-size: 0.95rem !important; }
+.drop-cap { color: var(--text-dark) !important; font-size: 1.1rem !important; }
 .drop-cap::first-letter {
   font-family: var(--font-display);
   font-size: 4rem; font-weight: 700;
