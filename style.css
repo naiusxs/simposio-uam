@@ -236,7 +236,7 @@ ul { list-style: none; }
 }
 .aside-block { padding: 2rem 0; }
 .aside-rule { height: 1px; background: var(--gold); opacity: 0.4; margin-bottom: 1.5rem; }
-.aside-quote { font-family: var(--font-serif); font-size: 1.5rem; font-style: italic; font-weight: 400; color: var(--ink); line-height: 1.7; }
+.aside-quote { font-family: var(--font-serif); font-size: 2rem; font-style: italic; font-weight: 400; color: var(--ink); line-height: 1.7; }
 
 .section-divider { height: 1px; background: linear-gradient(to right, transparent, var(--gold), transparent); opacity: 0.3; margin: 5rem 0; }
 
