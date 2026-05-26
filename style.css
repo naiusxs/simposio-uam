@@ -315,7 +315,7 @@ ul { list-style: none; }
 .ink .beneficio-text strong { color: var(--gold); }
 .ink .beneficio-text p { color: var(--text-smoke); opacity: 0.7; }
 .ink .editorial-col-main p { color: var(--text-smoke); opacity: 0.7; }
-.cream .aliados-intro { color: var(--ink); opacity: 0.8; }
+.cream .aliados-intro { color: var(--ink); opacity: 1; }
 .cream .aliado-content h3 { color: var(--ink); }
 .cream .aliado-content p { color: var(--text-dark); opacity: 1; }
 .ink .cta-title { color: var(--cream); }
