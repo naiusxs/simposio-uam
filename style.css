@@ -295,7 +295,12 @@ ul { list-style: none; }
 .cta-body { font-family: var(--font-sans); font-size: 0.88rem; font-weight: 300; color: var(--text-dark); line-height: 1.85; margin-bottom: 2.5rem; }
 
 /* ─── FOOTER ─── */
-.footer { background: var(--ink); padding: 3.5rem 2.5rem 2rem; }
+.footer {
+  background: var(--ink);
+  padding: 3.5rem 2.5rem 2rem;
+  border-top: 1px solid transparent;
+  border-image: linear-gradient(to right, transparent, rgba(184,151,88,0.45), transparent) 1;
+}
 .footer-grid { max-width: 1100px; margin: 0 auto 2.5rem; display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; }
 .footer-logo-text { font-family: var(--font-display); font-size: 0.75rem; letter-spacing: 3px; color: var(--gold); margin-bottom: 0.5rem; opacity: 0.8; }
 .footer-inst { font-family: var(--font-sans); font-size: 0.75rem; font-weight: 300; color: var(--text-smoke); opacity: 0.4; letter-spacing: 1px; }
