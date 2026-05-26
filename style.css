@@ -311,6 +311,10 @@ ul { list-style: none; }
 .beneficio-num { font-family: var(--font-display); font-size: 0.65rem; letter-spacing: 3px; color: var(--gold); opacity: 0.5; padding-top: 0.3rem; text-align: right; }
 .beneficio-text strong { font-family: var(--font-display); font-size: 0.85rem; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink); display: block; margin-bottom: 0.5rem; }
 .beneficio-text p { font-family: var(--font-sans); font-size: 0.85rem; font-weight: 300; color: var(--text-muted); line-height: 1.85; }
+.ink .beneficio-item { border-color: rgba(184,151,88,0.15); }
+.ink .beneficio-text strong { color: var(--gold); }
+.ink .beneficio-text p { color: var(--text-smoke); opacity: 0.7; }
+.ink .editorial-col-main p { color: var(--text-smoke); opacity: 0.7; }
 
 /* ─── RESPONSIVE ─── */
 @media (max-width: 960px) {
