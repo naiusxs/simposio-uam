@@ -182,6 +182,9 @@ ul { list-style: none; }
 .btn-stroke:hover { background: var(--gold); color: var(--ink); }
 .btn-stroke.dark { border-color: var(--ink); color: var(--ink); }
 .btn-stroke.dark:hover { background: var(--ink); color: var(--cream); }
+.btn-secondary { border-color: rgba(184,151,88,0.45); color: rgba(184,151,88,0.7); }
+.btn-secondary:hover { background: rgba(184,151,88,0.1); color: var(--gold); border-color: var(--gold); }
+.cta-buttons { display: flex; gap: 1.25rem; justify-content: center; flex-wrap: wrap; }
 
 .hero-scroll {
   position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%);
